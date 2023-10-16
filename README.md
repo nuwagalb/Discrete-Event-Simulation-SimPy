@@ -19,11 +19,13 @@ clone repository from the link below
 
 #### Install the SimPy library by running the command below.
 
-$ pip install simpy
+1. $ pip install simpy
+2. $ pip install pandas
+
 
 #### To run a given file invoke the command below.
 
 $ python3 file_name 
 
-For example to run the file named "oop_simpy_1.py", type
+For example to run the file named "oop_simpy_1.py", type:
 $ python3 oop_simpy_1.py
