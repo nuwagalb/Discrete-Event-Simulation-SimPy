@@ -1,7 +1,7 @@
 # Discrete-Event-Simulation-SimPy
 Repository with examples and exercises to demonstrate Discrete Event Simulation Modelling using SimPy
 
-#### Technologies and Tools used to run these applications
+#### Technologies and Tools used to run these files
 
 1. SimPy (A Python Discrete Event Simulation Modelling tool)
 
